@@ -2,7 +2,7 @@
 
 DEPLOY LINK : https://life-line-ll9z9y8ac-pprincessjain-6036s-projects.vercel.app/
 
-VIDEO DEMO LINK:
+VIDEO DEMO LINK: https://drive.google.com/file/d/153wmlrUhi9419AOp3gWhF3usKVLmuEtn/view?usp=sharing
 
 PPT LINK:
 
