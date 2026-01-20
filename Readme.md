@@ -4,9 +4,15 @@ DEPLOY LINK : https://life-line-ll9z9y8ac-pprincessjain-6036s-projects.vercel.ap
 
 VIDEO DEMO LINK: https://drive.google.com/file/d/153wmlrUhi9419AOp3gWhF3usKVLmuEtn/view?usp=sharing
 
-PPT LINK:
+PPT LINK : https://drive.google.com/file/d/1os9NdNwgxRB3KjrxR-qIoFtxNjj-1u0f/view?usp=sharing
 
 SNAPSHOTS:
+<img width="1882" height="1084" alt="image" src="https://github.com/user-attachments/assets/5b56e4f1-9c38-46f3-9c70-f2af43b9b39b" />
+
+
+
+
+
 <img width="1904" height="1030" alt="image" src="https://github.com/user-attachments/assets/d9241872-aab0-498c-bab9-98d94c1eeb04" />
 
 
